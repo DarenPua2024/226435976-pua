@@ -1,0 +1,50 @@
+1  pck install gh
+    2  pkg install git
+    3  pck install neofetch
+    4  pkg install neofetch, cmatrix
+    5  pkg install neofetch
+    6  pkg install cmatrix
+    7  pkg install gh
+    8  termux-setup-storage
+    9  ls
+   10  cd storage
+   11  ls
+   12  cd shared
+   13  mkdir PlatformTech
+   14  cd PlatformTech
+   15  cd ..
+   16  cd PlatformTech
+   17  gh auth login
+   18  git clone https://github.com/DarenPua24/226435976-pua
+   19  git clone https://github.com/DarenPua2024/226435976-pua
+   20  ls
+   21  cd 226435976-pua
+   22  touch History
+   23  ls
+   24  nano daren.txt
+   25  cat put.html
+   26  cat pua.html
+   27  cat daren.txr
+   28  cat daren.txt
+   29  cat part2.html
+   30  tail styel.css
+   31  tail daren.txt
+   32  touch CC22.txt
+   33  nano CC22.txt
+   34  cat CC22.txt
+   35  rm -r CC22.txt
+   36  ls
+   37  cd History
+   38  rm -r History
+   39  mkdir History
+   40  ls
+   41  cd History
+   42  touch quiz.txt
+   43  history
+   44  pkg install tree
+   45  tree
+   46  cd..
+   47  cd ..
+   48  tree
+   49  History
+   50  history
